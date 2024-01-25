@@ -1,7 +1,7 @@
 Python in One Shot
-
+<br>
 Topics Covered ->
-
-01 - Identifiers
-02 - Datatypes
-03 - Operators 
+<br>
+01 - Identifiers<br>
+02 - Datatypes<br>
+03 - Operators <br>
