@@ -22,7 +22,15 @@ print(s7.isupper())
 s8 = "QWEhjRTY"
 print(s8.isupper())
 
+#lower() and upper()
+s9 = "aNUrag"
+print(s9.lower())
+print(s9.upper())
 
+#lstrip and rstrip
+s10 = '     AkS     '
+print(s10.lstrip())
+print(s10.rstrip())
 
 
 
