@@ -1,0 +1,6 @@
+try:
+    n = int(input("Enter the number whose table you want to get printed "))
+    for i in range(11):
+        print(n, "*", i, '=', n * i)
+except ValueError:
+    print("Invalid Input. Please enter a valid integer.")
