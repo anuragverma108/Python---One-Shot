@@ -13,3 +13,5 @@ print(len(l))
 print(sum(l))
 seq  = "Anurag"
 print(list(seq))
+seq1 = ('a','b',3,'&')
+print(list(seq1))
