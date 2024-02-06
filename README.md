@@ -34,6 +34,8 @@ Welcome to the "Python - One Shot" repository! This collection of educational co
 
 15. **File Handling in Python:** Introduction to reading and writing files in Python.
 
+16. **Exception Handling:** Dealing with exceptions and errors in Python.
+
 ## Contact Information
 
 For any queries or further assistance, feel free to reach out to Anurag Verma via email: anuragvermacontact@gmail.com.
