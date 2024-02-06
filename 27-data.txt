@@ -1,0 +1,6 @@
+This is
+dummy file.
+We are 
+learning
+file handling
+in Python
